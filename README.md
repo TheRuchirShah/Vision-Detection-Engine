@@ -86,7 +86,11 @@ All three detection modes are handled inside **one clean Python script (`yolo_un
 │   ├── yolov3.weights
 │   └── coco.names
 └── src/
-    └── media
+    ├── docs/
+    │   └── ruchir-shah-awarded-research-paper.pdf
+    └── media/
+        └── live-vision-detection.webp
+
 ```
 
 
