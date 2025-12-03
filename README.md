@@ -75,7 +75,7 @@ All three detection modes are handled inside **one clean Python script (`yolo_un
 
 ### 📁 Folder Structure
 
-YOLO-Object-Detection/
+Vision-Detection-Engine/
 │── README.md
 │── LICENSE
 │── requirements.txt
@@ -104,8 +104,8 @@ YOLO-Object-Detection/
 
 ##### 1. Clone the Repository
 ```
-git clone https://github.com/TheRuchirShah/YOLO-object-detection-with-OpenCV.git
-cd YOLO-object-detection-with-OpenCV
+git clone https://github.com/TheRuchirShah/Vision-Detection-Engine.git
+cd Vision-Detection-Engine
 ```
 
 
