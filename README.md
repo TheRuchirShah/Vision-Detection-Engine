@@ -75,30 +75,21 @@ All three detection modes are handled inside **one clean Python script (`yolo_un
 
 ### 📁 Folder Structure
 
-Vision-Detection-Engine/
-│── README.md
-│── LICENSE
-│── requirements.txt
-│── yolo_unified.py
-│
+```
+.Vision-Detection-Engine
+├── README.md
+├── LICENSE
+├── requirements.txt
+├── vision_detection_engine.py
 ├── model/
-│ ├── yolov3.cfg
-│ ├── yolov3.weights
-│ └── coco.names
-│
-├── input/
-│ ├── images/
-│ │ └── sample.jpg
-│ └── videos/
-│ └── sample.mp4
-│
-└── output/
-├── images/
-└── videos/
+│   ├── yolov3.cfg
+│   ├── yolov3.weights
+│   └── coco.names
+└── src/
+    └── media
+```
 
 
-
----
 
 ### 🔧 Installation & Setup
 
