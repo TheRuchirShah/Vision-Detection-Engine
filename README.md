@@ -221,7 +221,7 @@ See the full license file.
 
 Ruchir Shah
 UI/UX Designer & Developer
-GitHub: https://github.com/TheRuchirShah
+<a href="https://ruchir-website.vercel.app/" target="_blank">Website (ruchir-website.vercel.app/)</a>
 
 <div align="center">
 
