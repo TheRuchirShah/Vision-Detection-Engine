@@ -46,8 +46,8 @@ It supports:
 - 🖼️ **Image Object Detection**
 - 🎞️ **Video File Object Detection**
 - 📡 **Real-time Webcam Object Detection**
-- 💾 Auto-saving output with bounding boxes
-- 🎯 Supports all **80 COCO classes**
+- 💾 **Auto-saving output with bounding boxes**
+- 🎯 **Supports all 80 COCO classes**
 
 All three detection modes are handled inside **one clean Python script (`yolo_unified.py`)**, making it extremely easy to run, maintain, and extend.
 
