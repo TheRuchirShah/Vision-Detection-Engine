@@ -225,6 +225,6 @@ UI/UX Designer & Developer
 
 <div align="center">
 
-⭐ Ruchir Shah
+⭐ Ruchir Shah ⭐
 
 </div> 
